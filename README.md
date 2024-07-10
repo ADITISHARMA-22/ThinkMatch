@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-This project is deployed on vercel : https://magic-match-hs3p41rqg-aditisharma-22s-projects.vercel.app/    \
+<b> This project is deployed on vercel : https://magic-match-hs3p41rqg-aditisharma-22s-projects.vercel.app/ </b>   \ 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
